@@ -1,79 +1,55 @@
-<!--Banner-->
-![RiddheshCharpe Banner Image](./banner.png)
+<!-- ============================================================
+     RIDDHESH CHARPE — Data Scientist & AI Engineer
+     GitHub Profile README
+     ============================================================ -->
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+<!-- HEADER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0533,100:2d0a5e&height=200&section=header&text=Riddhesh%20Charpe&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Agentic%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+</p>
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Riddhesh Charpe!
-*Data Scientist & AI Engineer*
-<br />
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Intelligent+Agentic+AI+Systems+%F0%9F%A4%96;Crafting+LLM-Powered+Applications+%F0%9F%A7%A0;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<!--Start Intro-->
-<p align="left">I am a <strong>Data Scientist</strong> and <strong>AI Engineer</strong> with a deep passion for building intelligent systems, Agentic AI pipelines, and data-driven applications. I love working with Python, Machine Learning, Deep Learning, LLMs, Agentic AI Frameworks, and Data Visualization.</p>
-
-- ✨ Student of life :)
-- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- 🤖 Passionate about **Agentic AI**, LLM systems, and building AI-powered real-world applications.
-- 🧠 Deep interest in **Data Science**, ML model development, and advanced AI research.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community]
-- 🏙 A lifetime insider and Mentor at [Exercism].
-- ✍ I write technical blogs, You can visit my blog site at [DEV].
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio] for more details about me.
-<!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="SumitSartale" style="padding-right:20px;" />
+<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riddheshC&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+  <a href="https://dev.to/riddhesh"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://github.com/riddheshC"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://exercism.org"><img src="https://img.shields.io/badge/Exercism_Mentor-009CAB?style=for-the-badge&logo=exercism&logoColor=white" /></a>
 </p>
 
 ---
 
-<!--Languages and Tools Section-->
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-<h3 align="left">🧠 Data Science & AI Skills</h3>
-<ul align="left">
-  <li><strong>Data Science:</strong> Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Statistical Analysis, EDA, Feature Engineering</li>
-  <li><strong>Machine Learning & Deep Learning:</strong> Supervised/Unsupervised Learning, Neural Networks, CNNs, RNNs, Transformers, PyTorch, TensorFlow, Keras</li>
-  <li><strong>Agentic AI:</strong> LangChain, LangGraph, CrewAI, AutoGen, LlamaIndex, OpenAI Agents SDK, MCP (Model Context Protocol), RAG Pipelines, Multi-Agent Systems</li>
-  <li><strong>LLMs & Generative AI:</strong> Prompt Engineering, Fine-tuning, OpenAI API, Anthropic Claude API, Hugging Face, Vector Databases (Pinecone, Chroma, FAISS)</li>
-  <li><strong>AI Projects & MLOps:</strong> Model Deployment, FastAPI, Docker, MLflow, Streamlit, Gradio, AWS SageMaker</li>
-  <li><strong>Full Stack:</strong> React.js, Node.js, Django, REST APIs, PostgreSQL, MongoDB</li>
-</ul>
+<img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl"/>
 
-<h3 align="left">📚 Current Learning</h3>
-<ul align="left">
-  <li>Building advanced <strong>Agentic AI</strong> systems using LangGraph, CrewAI, and AutoGen.</li>
-  <li>Deepening expertise in <strong>LLM fine-tuning</strong> and model alignment techniques.</li>
-  <li>Exploring <strong>MLOps</strong> best practices and scalable AI infrastructure on AWS & Azure.</li>
-  <li>Researching <strong>Multi-Agent collaboration frameworks</strong> and autonomous AI pipelines.</li>
-</ul>
+```python
+class RiddheshCharpe:
+    role        = ["Data Scientist", "AI Engineer"]
+    passions    = ["Agentic AI", "LLMs", "MLOps", "Open Source"]
+    learning    = ["LangGraph", "LLM Fine-tuning", "Multi-Agent Systems"]
+    communities = ["DEV Community Moderator", "Exercism Mentor"]
+    blog        = "https://dev.to/riddhesh"
+    motto       = "Every day is a learning opportunity 🌱"
+```
 
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in &lt;1 min🙂</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
+- 🤖 Passionate about **Agentic AI pipelines** and LLM-powered real-world applications
+- 🧠 Deep interest in **ML model development**, Deep Learning, and advanced AI research
+- 💁‍♂️ Trusted **Moderator** at [DEV Community](https://dev.to) and **Mentor** at [Exercism](https://exercism.org)
+- ✍️ I write technical blogs at **[DEV.to](https://dev.to/riddhesh)**
+- ❤️ Passionate **Open Source contributor**
+- 💻 Visit my **[Portfolio](https://github.com/riddheshC)** for more
+
+<br clear="right"/>
 
 ---
 
-<!--Agentic AI Frameworks Section-->
-<h2 align="center">🤖 Aɢᴇɴᴛɪᴄ AI & Fʀᴀᴍᴇᴡᴏʀᴋs</h2>
+## 🧠 Agentic AI & LLM Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -83,10 +59,16 @@
   <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP_Protocol-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG_Pipelines-FF9500?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
 </p>
 
-<!--Data Science Stack Section-->
-<h2 align="center">📊 Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ Sᴛᴀᴄᴋ</h2>
+---
+
+## 📊 Data Science & ML Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -94,132 +76,142 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ---
 
-<!--Trophies Section-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
-<br />
+## ⚙️ MLOps & Deployment
 
-<!--Github stats Table-->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=riddheshC&no-bg=true&row=2&column=6&margin-w=12&margin-h=12&theme=monokai">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=riddheshC&no-bg=true&row=2&column=6&margin-w=12&margin-h=12">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=riddheshC&no-bg=true&no-frame=true&row=2&column=6&margin-w=12&margin-h=12">
+  </picture>
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center">GitHub Stats</h3>
       <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=riddheshC&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center">Streak Stats</h3>
       <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
+        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=riddheshC&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center">Top Languages</h3>
       <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddheshC&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide=html,css" alt="Top Languages" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center">Latest Project</h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=riddheshC&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
       </p>
     </td>
   </tr>
 </table>
-<br />
 
-
-</div>
-
----
-
-<!--Dynamic Quote card updates everyday at 12 PM-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
+<!-- Contribution Graph -->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Integrity%20is%20the%20ability%20to%20stand%20by%20an%20idea.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riddheshC&bg_color=0d0015&color=c56a90&line=7c3aed&point=ffeb95&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
 
 ---
 
-<!--Contact Section-->
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
+## ✍️ Latest Blog Posts
 
-<a href="" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
-</a>
+<!-- You can automate this with a GitHub Action (blog-post-workflow) -->
 
-<a href="" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
-</a>
+| # | Post | Date |
+|---|------|------|
+| 🔥 | [Storyblok MCP Server: Let AI Agents Manage Your Content 🤖](https://dev.to/riddhesh/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa) | 2025 |
+| 🚀 | [Pulstack: Deploy your static site to S3 or GitHub in <1 min](https://dev.to/riddhesh/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin) | 2025 |
+| 🤯 | [I Tried Out Qodo's New Embed Model Qodo-Embed-1](https://dev.to/riddhesh/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5) | 2025 |
 
-<a href=""_blank">
-<img src="./instagram.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
-</a>
+> 💡 **Tip:** You can auto-update this section using the [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) GitHub Action.
 
-<a href="https://github.com/riddheshC?tab=repositories"_blank">
-<img src="./github.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
-</a>
+---
 
-<a href="" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
+## 🌟 Thought of the Day
 
-<a href="" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="" style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>
-
-<!--Buy me a coffee-->
-<div align="center">
-<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
-
-<!--Footer-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Integrity%20is%20the%20ability%20to%20stand%20by%20an%20idea.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90" alt="Quote" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://dev.to/riddhesh" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://github.com/riddheshC" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<!-- Buy Me a Coffee -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="190" />
+  </a>
+</p>
+
+---
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a5e,50:1a0533,100:0a0a0a&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <i>⚡ "The best way to predict the future is to build it." — Let's build something amazing together!</i>
 </p>
